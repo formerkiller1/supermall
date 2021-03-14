@@ -1,4 +1,4 @@
-# supermall
+# 14-vue-market
 
 ## Project setup
 ```
